@@ -1,0 +1,4 @@
+#!/bin/bash
+source /home/apps/spack/share/spack/setup-env.sh
+
+spack load cuda/quxgo2c
