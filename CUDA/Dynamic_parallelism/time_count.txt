@@ -1,0 +1,32 @@
+Execution time with device function
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Time taken to execute kernel function: 2.512512ms
+Time taken to execute kernel function: 2.925216ms
+Time taken to execute kernel function: 2.409792ms
+Time taken to execute kernel function: 0.014496ms
+Time taken to execute kernel function: 0.011360ms
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Execution time without device function
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Time taken to execute kernel function: 0.017472ms
+Time taken to execute kernel function: 0.010048ms
+Time taken to execute kernel function: 0.012512ms
+Time taken to execute kernel function: 0.010176ms
+Time taken to execute kernel function: 0.011008ms
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Run 2 for device function
+Time taken to execute kernel function: 0.016832ms
+Time taken to execute kernel function: 0.016992ms
+Time taken to execute kernel function: 0.013376ms
+Time taken to execute kernel function: 0.012384ms
+Time taken to execute kernel function: 0.012160ms
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Run 2 for no device function
+Time taken to execute kernel function: 0.016864ms
+Time taken to execute kernel function: 0.016864ms
+Time taken to execute kernel function: 0.012576ms
+Time taken to execute kernel function: 0.016032ms
+Time taken to execute kernel function: 0.019200ms
